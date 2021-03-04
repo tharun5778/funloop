@@ -1,0 +1,38 @@
+{
+	"Products": [
+		{
+			"id": "1",
+			"item": "HP Laptop",
+			"model": "ENVY- X360",
+			"Price": "85000",
+			"ram": "8 GB",
+			"size": "15-inch",
+			"harddisk": "1 TB",	
+			"ssd":"256",
+			"quantity": 0,
+			"isAdded": false
+		},
+		{
+			"id": "2",
+			"item": "Dell Laptop",
+			"model":"XPS",
+			"Price": "110000",
+			"ram": "8 GB",
+			"size": "14-inch",
+			"ssd": "512",
+			"quantity": 0,
+			"isAdded": false
+					
+		},
+		{
+			"id": "3",
+			"item": "iphone",
+			"model":"12 pro",
+			"Price": "90000",
+			"storage": "64 GB",
+			"colour": "Red",
+			"quantity": 0,
+			"isAdded": false
+		},
+	]
+}
